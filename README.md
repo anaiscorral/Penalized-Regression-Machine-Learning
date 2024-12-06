@@ -12,3 +12,14 @@
 - Hyperparameter Tuning: Used cross-validation to fine-tune regularization parameters for both Ridge and Lasso regression models.
 - Model Evaluation: Compared model performance using metrics like Mean Squared Error (MSE) and R-squared to assess predictive accuracy.
 - Interpretability: Visualized coefficient shrinkage and predictor importance to demonstrate the effects of regularization.
+
+### Correlation Matrix. This will help determine which variables are the most or less important.
+![](https://github.com/anaiscorral/Pernalized-Regression-Machine-Learning/blob/main/p%20regression.png)
+
+### AUC Ridge & Lasso Comparisson.
+In this case, models (Lasso and Ridge) are performing well, since their AUC values are close to 1, which indicates strong predictive power.
+This means that the model can correctly identify who will say “yes” and who will say “no” to the campaign (separating customers who accepted the campaign, from those who didn’t).
+
+![](https://github.com/anaiscorral/Pernalized-Regression-Machine-Learning/blob/main/p%20regression%202.png)
+
+![](https://github.com/anaiscorral/Pernalized-Regression-Machine-Learning/blob/main/p%20regression%203.png)
