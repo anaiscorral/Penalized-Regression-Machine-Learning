@@ -1,4 +1,4 @@
-# Pernalized-Regression-Machine-Learning
+# Penalized-Regression-Machine-Learning
 
 ## About the Dataset
 - Purpose: The dataset is used to study penalized regression techniques in a supervised learning context.
